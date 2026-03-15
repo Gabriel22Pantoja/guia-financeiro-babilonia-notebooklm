@@ -1,4 +1,4 @@
-# guia-financeiro-babilonia-notebooklm
+# Guia O homem mais rico da Babilônia
 
 ## Contexto e Objetivos
 Este projeto utiliza o NotebookLM para criar um caderno de estudos interativo sobre o livro 'O Homem mais Rico da Babilônia'. O objetivo é aplicar técnicas AI para extrair lições de planejamento financeiro e investimentos, transformando um texto clássico em uma base de conhecimento consultável para o aprendizado ativo.
